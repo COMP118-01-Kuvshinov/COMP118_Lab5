@@ -1,5 +1,10 @@
-/** \file UnitTest_Tutorial4Part2.cpp
-* @todo
+/** \file UnitTest_COMP118_Lab5.cpp
+* \brief UnitTests for Tutorial4Part2
+* \author    Igor Kuvshinov
+* \version   0.1
+* \date      30/05/2023
+* \bug       None
+* \copyright University of Nicosia.
 */
 #include "pch.h"
 #include "CppUnitTest.h"
